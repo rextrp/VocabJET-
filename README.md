@@ -1,1 +1,3 @@
-# vocabjet
+# VocabJET™
+# README
+# Editor: Rextrp
